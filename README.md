@@ -1,24 +1,24 @@
-# Kategori Elektronik
+**Kategori Elektronik**
 - Accuracy   : 0.9449
 - Macro F1   : 0.6574
 - Weighted F1: 0.9425
 
-# Kategori Makanan dan Minuman 
+**Kategori Makanan dan Minuman**
 - Accuracy   : 0.8809
 - Macro F1   : 0.7342
 - Weighted F1: 0.8820
 
-# Kategori Hiburan
+**Kategori Hiburan**
 - Accuracy   : 0.8876
 - Macro F1   : 0.7417
 - Weighted F1: 0.8898
 
-# Kategori Olahraga
+**Kategori Olahraga**
 - Accuracy   : 0.8729
 - Macro F1   : 0.6304
 - Weighted F1: 0.8849
 
-# Kategori Pertukangan
-- Accuracy   : 0.9589
-- Macro F1   : 0.6034
+**Kategori Pertukangan**
+- Accuracy   : 0.9590
+- Macro F1   : 0.6035
 - Weighted F1: 0.9604
